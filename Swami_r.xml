@@ -1,0 +1,50 @@
+<Suite name="Maven_Swami_Project">
+	<test name="Swami_r">
+
+		<Classes>
+
+			<class name="Swami_Project.Swami_Arraylist">
+				<method>
+					<include name="search" />
+				</method>
+			</class>
+
+
+			<class name="Swami_Project.Swami_Assert">
+				<method>
+					<include name="asrt" />
+				</method>
+			</class>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</Classes>
+
+	</test>
+
+</Suite>

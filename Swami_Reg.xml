@@ -1,0 +1,82 @@
+<suite name = "Swami_qa">
+<Test name = "Swami_test">
+
+<classes>
+
+<class name = "Swami_Project.Swami_Getoptions">
+<method>
+<include name = "getoptions"  />
+</method>
+</class>
+
+<class name = "Swami_Project.Swami_WindowHandles">
+<method>
+<include name = "Windowshandles"  />
+</method>
+</class>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</classes>
+
+</Test>
+
+</suite>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</Classes>
+
+	</test>
+
+</Suite>

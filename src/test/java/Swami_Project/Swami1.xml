@@ -1,0 +1,50 @@
+<Suite name = "Swami_XML">
+<test name = "Swami_Execution">
+
+<Classes>
+
+<class name = "Swami_Project.Swami_Arraylist">
+<method>
+<include name = "search"/>
+</method>
+</class>
+
+
+<class name = "Swami_Project.Swami_Assert">
+<method>
+<include name = "asrt"/>
+</method>
+</class>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Classes>
+
+</test>
+
+</Suite>
